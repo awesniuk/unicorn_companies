@@ -25,4 +25,4 @@ The project performs the following analysis steps:
        - Which are the top 10 cities in the United States with the highest average company valuation? How many companies are there in each of these cities?
        - What are the top companies in each industry based on the total amount raised, and how do they rank within their industry?
        - Which are the top 3 companies by valuation within each industry? What is their valuation relative to the average valuation in their industry?
-       - What is the correlation between total raised and valuation by country? Calculated for top countries by number of comapnies (HAVING COUNT(*) > x).
+       - What is the correlation between total raised and valuation by country? Calculated for top countries by number of comapnies (HAVING COUNT(*) > x)?
